@@ -3,4 +3,6 @@
 release-artifacts
 *.lock
 
-fonts/
+/fonts/
+/*.glyphs
+/My.json
